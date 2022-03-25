@@ -25,4 +25,5 @@ I may add boss fights in the near future to spice this up a bit
 Demo on my youtube channel: https://www.youtube.com/watch?v=j3Te7XH48qw
 
 ![Screenshot (17)](https://user-images.githubusercontent.com/82488869/160042460-d030c292-8173-4c04-ab1a-b18073873a16.png)
+![Screenshot (21)](https://user-images.githubusercontent.com/82488869/160042408-d1113eb1-8819-4138-94d5-a249ebcf31bf.png)
 
