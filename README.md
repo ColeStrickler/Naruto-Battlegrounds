@@ -20,3 +20,9 @@ Green Ninja -> tanky, teleports, charge attack, shuriken throw, punch attack, te
 Pink Ninja -> fast, attacks and teleports away in a hit and run strategy
 
 I may add boss fights in the near future to spice this up a bit
+
+# In Action:
+Demo on my youtube channel: https://www.youtube.com/watch?v=j3Te7XH48qw
+
+![Screenshot (17)](https://user-images.githubusercontent.com/82488869/160042460-d030c292-8173-4c04-ab1a-b18073873a16.png)
+
