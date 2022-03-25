@@ -1,4 +1,3 @@
-### Naruto-Battlegrounds
 # Fight wave after wave of enemy shenobi as your favorite Naruto character!
 
 # Disclaimer:
